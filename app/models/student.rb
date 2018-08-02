@@ -1,2 +1,2 @@
-class Student < ActiveRecord::Base
+class CreateStudents < ActiveRecord::Migration[5.1]
 end
